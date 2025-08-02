@@ -1,0 +1,30 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+streamlit
+
+# IBM Watson and AI Services
+ibm-watson
+ibm-cloud-sdk-core
+ibm-watsonx-ai
+
+# Environment Configuration
+python-dotenv
+
+# Data Processing and Validation
+pandas
+numpy
+pydantic
+
+# HTTP Client
+httpx
+requests
+
+# Utilities
+python-dateutil
+typing-extensions
+
+# Development Tools
+pytest
+black
+flake8
